@@ -41,7 +41,7 @@ class Tema4Switch{
 
     public static void main(String[] args) {
 
-        String estacion = "ff";
+        String estacion = "verano";
 
         switch(estacion){
             case "Verano":
